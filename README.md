@@ -196,8 +196,8 @@ If you use this repository in your research, please cite:
 ```bibtex
 @software{attention_mechanisms_zoo,
   title={Attention Mechanisms Zoo},
-  author={Your Name},
+  author=Mehrdaddastouri,
   year={2024},
-  url={https://github.com/yourusername/attention-mechanisms-zoo}
+  url={https://github.com/mehrdaddastouri/attention-mechanisms-zoo}
 }
 ```
